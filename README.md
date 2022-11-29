@@ -1,3 +1,3 @@
-SFG Beer Works BOM
+# Partner Onboard Parent BOM
 
-Common BOM for SFG Beer Works Projects
+Common Parent BOM for Partner Onboard Services
